@@ -673,6 +673,7 @@ ion-icon:hover {
   .contact {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr;
+    gap: 15px 0;
   }
 }
 @media screen and (max-width: 600px) {
