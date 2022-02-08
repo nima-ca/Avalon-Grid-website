@@ -654,6 +654,7 @@ ion-icon:hover {
   font-size: 1.3rem;
   margin-bottom: 30px;
   color: rgba(255, 255, blue, alpha);
+  caret-color: white;
 }
 
 .textarea--style {
@@ -667,6 +668,7 @@ ion-icon:hover {
   background-color: rgba(250, 250, 250, 0.1);
   font-size: 1.3rem;
   margin-bottom: 30px;
+  caret-color: white;
 }
 
 @media screen and (max-width: 900px) {
