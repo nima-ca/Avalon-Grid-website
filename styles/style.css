@@ -21,6 +21,11 @@ body {
   font-weight: 400;
 }
 
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
 ion-icon {
   font-size: 2.2rem;
   cursor: pointer;
@@ -653,7 +658,7 @@ ion-icon:hover {
   background-color: rgba(250, 250, 250, 0.1);
   font-size: 1.3rem;
   margin-bottom: 30px;
-  color: rgba(255, 255, blue, alpha);
+  color: white;
   caret-color: white;
 }
 
@@ -669,6 +674,7 @@ ion-icon:hover {
   font-size: 1.3rem;
   margin-bottom: 30px;
   caret-color: white;
+  color: white;
 }
 
 @media screen and (max-width: 900px) {
